@@ -31,7 +31,7 @@ body{
 
 .groceries i{
     font-size: 2rem;
-    color: yellow;
+    color: rgb(255, 153, 0);
 }
 
 .groceries input{

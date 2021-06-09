@@ -22,7 +22,7 @@ function addItem(){
         h2.style.textDecoration = "line-through";
     })
 
-    allItems.insertAjacentElement("beforeend", h2);
+    allItems.append(h2);
 
     userInput.value ="";
 }
